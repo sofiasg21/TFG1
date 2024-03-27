@@ -1,3 +1,11 @@
 # TFG1
-## Esto es una prueba
-- Voy a hacer el tfg, estoy practicando los commits.etc
+## RECOPILATORIO INIDIVIDUAL DE ALERGIAS EN EL CENTRO ESCOLAR
+-
+-
+**##Clase 1**
+-Alumnos
+**##Clase 2**
+-Alumnos
+**##Clase 3**
+Alumnos
+
